@@ -33,4 +33,6 @@ https://docs.github.com/en/github/working-with-github-pages/configuring-a-publis
 
 * You should see the URL where the app can be accessed
 
+* You only need to do this once - whenever you push now to master the app is automatically updated
+
 #### 🚨 Update can take a few minutes 🚨
