@@ -21,3 +21,5 @@ $ git push origin master
 ```
 
 ### Then the other team menbers clone the project to their computers
+
+In the repository on GitHub got to Settings -> Manage Access and add the other team members as collaborators.
