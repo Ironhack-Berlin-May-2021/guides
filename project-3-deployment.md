@@ -59,6 +59,7 @@ app.use((req, res) => {
 
 The end of the app.js file will now look like this:
 ```js
+const path = require('path');
 app.use(express.static(path.join(__dirname, "/client/build")));
 
 app.use((req, res) => {
